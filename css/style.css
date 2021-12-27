@@ -89,6 +89,26 @@ ul {
   box-shadow: 0 0.5rem 0rem 0rem #c0392b;
 }
 
+.ets2019 {
+  background-color: #009432;
+  box-shadow: 0 0.5rem 0rem 0rem #00521b;
+}
+
+.ets2018 {
+  background-color: #ffc312;
+  box-shadow: 0 0.5rem 0rem 0rem #f79f1f;
+}
+
+.ets2017 {
+  background-color: #833471;
+  box-shadow: 0 0.5rem 0rem 0rem #4e1340;
+}
+
+.hacker3 {
+  background-color: #40407a;
+  box-shadow: 0 0.5rem 0rem 0rem #2c2c54;
+}
+
 .noneActive {
   background-color: #ccc;
   box-shadow: 0 0.5rem 0rem 0rem #8b8989;
